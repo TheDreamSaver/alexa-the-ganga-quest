@@ -1,0 +1,217 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "ganga skill",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.RepeatIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.YesIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NoIntent",
+                    "samples": []
+                },
+                {
+                    "name": "CatchAllIntent",
+                    "slots": [],
+                    "samples": [
+                        "bla bla bla",
+                        "thorough reserve forecast",
+                        "diverse international parity",
+                        "state old post",
+                        "removed white summary",
+                        "leading extract square",
+                        "excess background favor",
+                        "implemented small hour",
+                        "taking comment advice",
+                        "typed ease",
+                        "entitled stay",
+                        "upset horse",
+                        "commercial defining",
+                        "head independent",
+                        "standing twelve",
+                        "away chain",
+                        "revealed emphasis",
+                        "optional march",
+                        "previous black",
+                        "size finishing",
+                        "frequent treat little ban",
+                        "great area briefly force",
+                        "presented few potentially four",
+                        "releasing double tomorrow perfect",
+                        "suspended fed strongly room"
+                    ]
+                },
+                {
+                    "name": "GoAwayIntent",
+                    "slots": [],
+                    "samples": [
+                        "go away"
+                    ]
+                },
+                {
+                    "name": "HelpJackalIntent",
+                    "slots": [],
+                    "samples": [
+                        "help jackal"
+                    ]
+                },
+                {
+                    "name": "LetItDieIntent",
+                    "slots": [],
+                    "samples": [
+                        "let it die"
+                    ]
+                },
+                {
+                    "name": "SaveTheFishIntent",
+                    "slots": [],
+                    "samples": [
+                        "save the fish"
+                    ]
+                },
+                {
+                    "name": "RestartIntent",
+                    "slots": [],
+                    "samples": [
+                        "restart"
+                    ]
+                },
+                {
+                    "name": "ContinueWhereILeftOffIntent",
+                    "slots": [],
+                    "samples": [
+                        "Continue where I left off"
+                    ]
+                },
+                {
+                    "name": "TheMotherIntent",
+                    "slots": [],
+                    "samples": [
+                        "The mother",
+                        "mother"
+                    ]
+                },
+                {
+                    "name": "TheDaughterIntent",
+                    "slots": [],
+                    "samples": [
+                        "The daughter",
+                        "daughter"
+                    ]
+                },
+                {
+                    "name": "TheSonIntent",
+                    "slots": [],
+                    "samples": [
+                        "The son",
+                        "son"
+                    ]
+                },
+                {
+                    "name": "TheFatherIntent",
+                    "slots": [],
+                    "samples": [
+                        "The father",
+                        "father"
+                    ]
+                },
+                {
+                    "name": "RepeatIntent",
+                    "slots": [],
+                    "samples": [
+                        "repeat"
+                    ]
+                },
+                {
+                    "name": "WaitOutIntent",
+                    "slots": [],
+                    "samples": [
+                        "wait out",
+                        "wait out for two days"
+                    ]
+                },
+                {
+                    "name": "WaitToLessenIntent",
+                    "slots": [],
+                    "samples": [
+                        "wait to lessen"
+                    ]
+                },
+                {
+                    "name": "SetSailIntent",
+                    "slots": [],
+                    "samples": [
+                        "set sail"
+                    ]
+                },
+                {
+                    "name": "FollowOrdersIntent",
+                    "slots": [],
+                    "samples": [
+                        "Follow orders"
+                    ]
+                },
+                {
+                    "name": "GetExecutedIntent",
+                    "slots": [],
+                    "samples": [
+                        "Get executed"
+                    ]
+                },
+                {
+                    "name": "FaceThemIntent",
+                    "slots": [],
+                    "samples": [
+                        "face them"
+                    ]
+                },
+                {
+                    "name": "GoAndHideIntent",
+                    "slots": [],
+                    "samples": [
+                        "go and hide"
+                    ]
+                },
+                {
+                    "name": "TakeTheChanceIntent",
+                    "slots": [],
+                    "samples": [
+                        "take the chance"
+                    ]
+                },
+                {
+                    "name": "BeLoyalIntent",
+                    "slots": [],
+                    "samples": [
+                        "be loyal"
+                    ]
+                },
+                {
+                    "name": "RefuseIntent",
+                    "slots": [],
+                    "samples": [
+                        "refuse"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
